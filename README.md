@@ -101,7 +101,7 @@ Server runs at → `http://localhost:3000`
 
 ### GET /
 
-!\[GET root]\"C:\Users\mohammed lukhmaan\Downloads\day-1-main\day-1-main\day1-express-postgres\screenshoots\Screenshot 2025-09-20 131002.png"
+!\[GET root]\(![screenshots/Screenshot 2025-09-20 131002.png](<screenshoots/Screenshot 2025-09-20 131002.png>))
 
 ### POST /api/items
 
